@@ -1,6 +1,6 @@
 # Framework crossmapping
 
-Every framework control referenced in the archive, mapped to the day numbers that cover it. Use this to find the scenario behind a control you are being audited against — or studying toward.
+Every framework control referenced in the archive, mapped to the day numbers that cover it. Use this to find the scenario behind a control you are being audited against or studying toward.
 
 Only confirmed mappings appear here. Entries still pending backfill are absent by design rather than by omission; see [`../docs/PROVENANCE.md`](../docs/PROVENANCE.md).
 

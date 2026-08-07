@@ -1,4 +1,4 @@
-# Framework crosswalk
+# Framework crossmapping
 
 Every framework control referenced in the archive, mapped to the day numbers that cover it. Use this to find the scenario behind a control you are being audited against — or studying toward.
 

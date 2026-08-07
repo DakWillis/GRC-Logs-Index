@@ -1,4 +1,4 @@
-# Day XX — <Focus>
+# GRC Logs | Day XX — <Focus>
 
 **Series:** GRC Log | Friday Deep Breakdown | Saturday Breakdown | Sunday Architecture
 **Date:** <Day, DD Mon YYYY>
